@@ -309,7 +309,7 @@ return [
 
         ['header' => 'Modulos'],
         [
-            'text' => 'Presentacion',
+            'text' => 'Presentación',
             'url'  => '/perez/presentacion',
             'icon' => 'fas fa-fw fa-home',
         ],
