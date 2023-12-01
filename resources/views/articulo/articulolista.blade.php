@@ -33,7 +33,7 @@
                             <td>{{$articulo->color}}</td>
                             <td>{{$articulo->precioUnitario}}</td>
                             <td>{{$articulo->observacion}}</td>
-                            <td><img class="img-fluid" width="40px" height="40px" src="{{ asset('images/'. $articulo->foto ) }}" ></td>
+                            <td><img class="img-fluid" width="60px" height="60px" src="{{ asset('images/'. $articulo->foto ) }}" ></td>
                             <td>{{$articulo->marca_descripcion}}</td>
                         </tr>
                         @endforeach
